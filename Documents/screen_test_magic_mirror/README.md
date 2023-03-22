@@ -15,4 +15,4 @@ Les modules que j'ai configurer sont :
 
 ## Captures d'écran par alain
 
-![Capture d'écran du rendu de mon travail en ce mercredi 22/03/2023](https://github.com/alain-guillon-it/IotMirroir/tree/main/Documents/screen_test_magic_mirror/screen_capture_test_alain.png?raw=true)
+![Capture d'écran du rendu de mon travail en ce mercredi 22/03/2023](https://github.com/alain-guillon-it/IotMirroir/blob/main/Documents/screen_test_magic_mirror/screen_capture_test_alain.png)
