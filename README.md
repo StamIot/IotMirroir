@@ -1,5 +1,7 @@
 # Projet objet IOT miroir connecté et fil rouge écoconception (GreenIT)
 
+![Capture d'écran du rendu de mon travail en ce mercredi 22/03/2023](https://github.com/alain-guillon-it/IotMirroir/blob/main/Documents/screen_test_magic_mirror/screen_capture_test_alain.png)
+
 ## Les outils afin de réaliser à bien le projet IOT
 
 - Utiliser le Rapsberry PI Model 4
