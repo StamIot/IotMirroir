@@ -2,6 +2,14 @@
 
 ![Capture d'écran du rendu de mon travail en ce mercredi 22/03/2023](https://github.com/alain-guillon-it/IotMirroir/blob/main/Documents/screen_test_magic_mirror/screen_capture_test_alain.png)
 
+# Template application HandyMirror
+
+![Capture d'écran du rendu du template fait sur figma](https://github.com/wikkly/HandyMirror-MobileAppSophie/blob/main/ScreenAppTemplate/Screen1.png)
+![Capture d'écran du rendu du template fait sur figma](https://github.com/wikkly/HandyMirror-MobileAppSophie/blob/main/ScreenAppTemplate/Screen2.png)
+![Capture d'écran du rendu du template fait sur figma](https://github.com/wikkly/HandyMirror-MobileAppSophie/blob/main/ScreenAppTemplate/Screen3.png)
+![Capture d'écran du rendu du template fait sur figma](https://github.com/wikkly/HandyMirror-MobileAppSophie/blob/main/ScreenAppTemplate/Screen4.png)
+![Capture d'écran du rendu du template fait sur figma](https://github.com/wikkly/HandyMirror-MobileAppSophie/blob/main/ScreenAppTemplate/Screen5.png)
+
 ## Les outils afin de réaliser à bien le projet IOT
 
 - Utiliser le Rapsberry PI Model 4
